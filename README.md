@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeeptumbinavar
+- 👋 Hi, I’m pradeeptumbinavar
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying in cse kleit,hubli
 - 📫 email address > pradeeptumbinavar@gmail.com
