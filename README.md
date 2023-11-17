@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pradeeptumbinavar
 - 👀 I’m interested in coding
-- 🌱 I’m currently studying in cse kleit,hubli
+- 🌱 I’m currently studying @KLEIT Hubballi
 - 📫 email address > pradeeptumbinavar@gmail.com
 
 <!---
