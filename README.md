@@ -8,9 +8,9 @@
  making a meaningful impact. My expertise extends to innovative projects, making me ready to perform and
  thrive in a dynamic work environment.
 
-- 🌱 Currently studying at <a href="https://kleit.ac.in/">**KLEIT Hubballi**</a>
-- 📫 My email address <a href="pradeeptumbinavar@gmailcom">pradeeptumbinavar@gmail.com</a>
-- 💼 Sharing updates on <a href="www.linkedin.com/in/pradeep-tumbinavar">LinkedIn</a> 
+- 🌱 Currently studying at <a href="https://kleit.ac.in/"  target="_blank">**KLEIT Hubballi**</a>
+- 📫 My email address *pradeeptumbinavar@gmail.com*
+- 💼 Sharing updates on <a href="www.linkedin.com/in/pradeep-tumbinavar"  target="_blank">LinkedIn</a> 
 
 <!---
 pradeeptumbinavar/pradeeptumbinavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
