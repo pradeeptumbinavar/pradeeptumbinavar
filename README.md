@@ -1,18 +1,86 @@
-# Hi, I'm Pradeep Tumbinabvar 👋🏾 
+# Hi, I'm Pradeep Tumbinavar 👋
 
-![PRADEEP TUMBINAVAR](https://github.com/pradeeptumbinavar/pradeeptumbinavar/assets/96430165/6ada1489-2768-45ad-9fd1-f39e0434d147)
+![Profile Banner](https://github.com/pradeeptumbinavar/pradeeptumbinavar/assets/96430165/6ada1489-2768-45ad-9fd1-f39e0434d147)
 
+## 💡 About Me
+Backend-focused developer with experience in **Go (Golang), Java, and cloud-based systems**, along with exposure to **data analytics and multiple programming paradigms**.
 
- Skilled in Python and MERN full-stack development, I offer adaptability and a creative mindset. Seeking
- opportunities to contribute and excel professionally, I bring a passion for learning and a commitment to
- making a meaningful impact. My expertise extends to innovative projects, making me ready to perform and
- thrive in a dynamic work environment.
+I enjoy building scalable APIs, working with databases, analyzing data, and deploying applications on cloud platforms.
 
-- 🌱 Currently studying at <a href="https://kleit.ac.in/"  target="_blank">**KLEIT Hubballi**</a>
-- 📫 My email address *pradeeptumbinavar@gmail.com*
-- 💼 Sharing updates on <a href="www.linkedin.com/in/pradeep-tumbinavar"  target="_blank">LinkedIn</a> 
+Currently working as a **Java Fullstack Developer**, while expanding my expertise in **Go microservices, system design, and Azure cloud**.
 
-<!---
-pradeeptumbinavar/pradeeptumbinavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Go (Golang)
+- Java
+- JavaScript
+- Python
+- Erlang
+
+### ⚙️ Backend & Frameworks
+- Gin (Go)
+- GORM
+- Spring Boot
+- REST APIs
+- gRPC
+
+### 🌐 Frontend
+- React
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+
+### 🗄️ Databases & Data Tools
+- PostgreSQL
+- MySQL
+- Basic SQL Optimization
+- Metabase (Data visualization & dashboards)
+
+### ☁️ Cloud & Dev Tools
+- Microsoft Azure
+- Git & GitHub
+- Postman
+- VS Code
+- Jira
+
+### 🔄 Methodologies
+- Agile
+- Scrum
+
+---
+
+## 📊 Data & Analytics Exposure
+- Data querying using SQL
+- Dashboard creation using **Metabase**
+- Understanding of data-driven decision making
+- Basic data handling using Python
+
+---
+
+## 📌 Current Focus
+- Building **scalable backend systems using Go**
+- Applying **clean architecture & microservices design**
+- Integrating **external APIs (Weather, Maps, etc.)**
+- Working with **data + backend together**
+- Deploying apps on **Azure cloud**
+
+---
+
+## 📈 Goals
+- Become a **strong backend & systems engineer**
+- Strengthen **data-driven engineering skills**
+- Master **system design & distributed systems**
+- Contribute to impactful real-world projects
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **pradeeptumbinavar@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/pradeep-tumbinavar
+
+---
+
+## ⚡ Fun Fact
+I enjoy combining backend engineering with data insights to build smarter and scalable systems 🚀
